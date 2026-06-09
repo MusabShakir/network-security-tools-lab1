@@ -42,7 +42,6 @@ The ping scan confirmed that the host was online but did not list open ports. Wi
 network-security-tools-lab1/
 ├── README.md
 ├── docs/
-├── commands/
 └── screenshots/
 ```
 
